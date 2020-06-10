@@ -1,0 +1,17 @@
+write your answers
+
+PRE-LAB QUESTIONS
+
+What is the syntax for using fseek()?
+
+
+How do you open the sequential access file?
+
+
+List out the error handling file functions?
+
+
+Illustrate the use of fprintf()
+
+
+Illustrate the use of fscanf()
